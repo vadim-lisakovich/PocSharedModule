@@ -1,6 +1,6 @@
 {
-  "name": "shared-module",
-  "version": "1.0.0",
+  "name": "poc-shared-module-forte",
+  "version": "1.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
